@@ -1,0 +1,8 @@
+{
+  "name": "work-queues",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "amqplib": "^2.4.1"
+  }
+}

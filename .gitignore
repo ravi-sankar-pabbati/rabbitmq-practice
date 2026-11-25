@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+
+# Node
+node_modules/
+
+# Java / Maven
+target/
+cp.txt
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
